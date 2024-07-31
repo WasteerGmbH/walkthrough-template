@@ -17,7 +17,7 @@ We welcome contributions from the community! If you're interested in helping imp
 ## Getting Started
 To get started with the Website Walkthrough Library, check out our documentation for installation instructions, usage examples, and API reference.
 
-1. Clone the Repository: git clone https://github.com/yourusername/website-walkthrough-library.git
+1. Clone the Repository: git clone https://github.com/WasteerGmbH/walkthrough-template.git
 2. Install Dependencies: yarn
 3. Start Developing: yarn dev
 
